@@ -1,0 +1,8 @@
+{
+	"values": [
+		"vm:tick",
+		"vm:paste_mashine",
+		"vm:remove_mashine",
+		"crafting:tick"
+	]
+}

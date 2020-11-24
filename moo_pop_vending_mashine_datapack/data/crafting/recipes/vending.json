@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#R#",
+        "#G#",
+        "#D#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:red_concrete"
+        },
+        "R": {
+            "item": "minecraft:redstone_block"
+        },
+        "G": {
+            "item": "minecraft:golden_carrot"
+        },
+        "D": {
+            "item": "minecraft:dispenser"
+        }
+    },
+    "result": {
+        "item": "minecraft:knowledge_book",
+        "count": 1
+    }
+}
